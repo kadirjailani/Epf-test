@@ -15,7 +15,7 @@ Running this project in development enviroment with localhost:8080
 Running this project in Prod enviroment 
 
 1. Download/clone this project to your local.
-2. Double click on **index.html**
+2. Double click on **index.html**(inside './dist/index.html' folder)
 3. A new tab on your default web browser will open with this file, and shows its content
 
 ## Build project for Prod Environment
@@ -30,6 +30,6 @@ Running this project in Prod enviroment
 
 I'm a normal human being with few flaws
 
-1. Final bundle size is more than **1mb**, i need to work on webpack chunck to reduce into smaller efficient files
+1. Final bundle size is more than **1mb**, i need to work on webpack chunk to reduce into smaller efficient files
 2. Fetching data from url seems not working(although it works on other api url), maybe some setting blocking it from server.
 3. I should add async await on fetch function but keep getting error when build(something on Babel compiler issue)
