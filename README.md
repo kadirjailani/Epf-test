@@ -28,7 +28,8 @@ Running this project in Prod enviroment
 
 ## Current Issues
 
-I'm a normal human being with lots flaws
+I'm a normal human being with few flaws
 
-1. Final bundle size is more than **1mb**, i need to work on webpack chuck to reduce into smaller efficient files
+1. Final bundle size is more than **1mb**, i need to work on webpack chunck to reduce into smaller efficient files
 2. Fetching data from url seems not working(although it works on other api url), maybe some setting blocking it from server.
+3. I should add async await on fetch function but keep getting error when build(something on Babel compiler issue)
