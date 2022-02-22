@@ -4,7 +4,7 @@ Running this project in development enviroment with localhost:8080
 
 1. Download/clone this project to your local.
 2. Open **Terminal**/**CMD** then point it to this project folder
-3. Type **npm run install**; let it run for awhile(depending on your internet connection) to download all required dependencies to run this project.
+3. Type **npm install**; let it run for awhile(depending on your internet connection) to download all required dependencies to run this project.
 4. Type **npm run start:dev**; you can view all action name in package.json
 5. After few seconds, you will see in **Terminal** that it is compiling data
 6. A new tab will be auto open on your browser, then load the file to run properly.
